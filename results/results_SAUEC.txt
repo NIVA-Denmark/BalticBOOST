@@ -1,0 +1,170 @@
+SAUID	SAUlevel	SAU	ECID	EClevel	EcosystemComponent	Ind_count	EQR	Weight	Conf
+1	1	Baltic Sea	2	2	Birds	2	0.6332	0.7845	0.75
+2	2	Kattegat	62	4	Harbour seal	5	0.99	0.0223	0.9
+8	2	Bornholm Basin	61	4	Grey seal	8	0.7371	0.0099	0.8125
+8	2	Bornholm Basin	62	4	Harbour seal	5	0.53	0.0099	1
+8	2	Bornholm Basin	69	4	Salmon	1	0.16	0.0198	0.5
+12	2	Gulf of Riga	61	4	Grey seal	8	0.7371	0.0029	1
+12	2	Gulf of Riga	63	4	Ringed seal	5	0.0667	0.0029	0.775
+12	2	Gulf of Riga	69	4	Salmon	1	0.04	0.0059	0.75
+12	2	Gulf of Riga	83	4	Zooplankton - Shelf	2	0.3	0.0059	0.5
+14	2	Gulf of Finland	61	4	Grey seal	8	0.7371	0.0047	1
+14	2	Gulf of Finland	63	4	Ringed seal	5	0.0667	0.0047	1
+14	2	Gulf of Finland	69	4	Salmon	1	0.12	0.0094	0.75
+14	2	Gulf of Finland	83	4	Zooplankton - Shelf	2	0.3	0.0094	0.5
+19	3	Kattegat  - open sea	18	3	Shelf pelagic habitats	1	0.628	0.0147	0.5028
+25	3	Bornholm Basin  - open sea	18	3	Shelf pelagic habitats	1	0.1733	0.0183	1
+25	3	Bornholm Basin  - open sea	93	4	Macrofauna - Circalittoral mud	1	0.4601	0.0183	1
+29	3	Gulf of Riga  - open sea	18	3	Shelf pelagic habitats	1	0.6588	0.0082	0.2517
+31	3	Gulf of Finland  - open sea	18	3	Shelf pelagic habitats	1	0.516	0.0078	0.625
+31	3	Gulf of Finland  - open sea	93	4	Macrofauna - Circalittoral mud	1	0.2623	0.0078	0.875
+48	3	Gulf of Finland Finnish Coastal waters	64	4	Perch	1	0.7627	7e-04	1
+48	3	Gulf of Finland Finnish Coastal waters	66	4	Sea trout	1	0.3	7e-04	0.875
+48	3	Gulf of Finland Finnish Coastal waters	67	4	Cyprinids	1	0.45	7e-04	1
+48	3	Gulf of Finland Finnish Coastal waters	68	4	Piscivores	1	0.3429	7e-04	0.75
+49	3	Gulf of Finland Estonian Coastal waters	66	4	Sea trout	1	0.8	0.0017	0.875
+50	3	Gulf of Finland Russian Coastal waters	66	4	Sea trout	1	0.3	0.0036	0.75
+51	3	Gulf of Riga Estonian Coastal waters	64	4	Perch	1	0.3429	0.001	0.75
+51	3	Gulf of Riga Estonian Coastal waters	66	4	Sea trout	1	0.3	0.001	0.875
+51	3	Gulf of Riga Estonian Coastal waters	67	4	Cyprinids	1	0.3714	0.001	0.75
+51	3	Gulf of Riga Estonian Coastal waters	68	4	Piscivores	1	0.45	0.001	0.75
+52	3	Gulf of Riga Latvian Coastal waters	64	4	Perch	1	0.7	2e-04	0.75
+52	3	Gulf of Riga Latvian Coastal waters	66	4	Sea trout	1	0.3	2e-04	0.875
+52	3	Gulf of Riga Latvian Coastal waters	67	4	Cyprinids	1	0.45	2e-04	0.75
+52	3	Gulf of Riga Latvian Coastal waters	68	4	Piscivores	1	0.7	2e-04	0.75
+62	3	Bornholm Basin Swedish Coastal waters	64	4	Perch	1	0.7	2e-04	0.75
+62	3	Bornholm Basin Swedish Coastal waters	66	4	Sea trout	1	0.8	2e-04	0.875
+62	3	Bornholm Basin Swedish Coastal waters	67	4	Cyprinids	1	0.7	2e-04	0.75
+62	3	Bornholm Basin Swedish Coastal waters	68	4	Piscivores	1	0.7	2e-04	0.75
+65	3	Bornholm Basin German Coastal waters	64	4	Perch	1	0.7	0	0.75
+65	3	Bornholm Basin German Coastal waters	66	4	Sea trout	1	0.3	0	0.875
+65	3	Bornholm Basin German Coastal waters	67	4	Cyprinids	1	0.7	0	0.75
+65	3	Bornholm Basin German Coastal waters	75	4	Flounder	1	0.45	1e-04	0.75
+76	3	Kattegat Swedish Coastal waters	66	4	Sea trout	1	0.8	0.0011	0.875
+77	3	Kattegat Danish Coastal waters, including Limfjorden	66	4	Sea trout	1	0.8	7e-04	0.875
+77	3	Kattegat Danish Coastal waters, including Limfjorden	67	4	Cyprinids	1	0.45	7e-04	0.75
+77	3	Kattegat Danish Coastal waters, including Limfjorden	75	4	Flounder	1	0.45	0.0014	0.75
+78	4	DEN-001  - M1 	80	4	Phytoplankton - Coast	1	0	0	0.625
+78	4	DEN-001  - M1 	93	4	Macrofauna - Circalittoral mud	1	0.5735	0	0.625
+80	4	DEN-003  - M3 	80	4	Phytoplankton - Coast	0		0	0.625
+80	4	DEN-003  - M3 	93	4	Macrofauna - Circalittoral mud	1	0.5912	0	0.625
+82	4	DEN-005  - O3 	80	4	Phytoplankton - Coast	0		0	0.625
+82	4	DEN-005  - O3 	93	4	Macrofauna - Circalittoral mud	1	0.5647	0	0.625
+83	4	DEN-006  - O4 	80	4	Phytoplankton - Coast	0		0	0.625
+84	4	DEN-007  - OW2 	80	4	Phytoplankton - Coast	0		8e-04	0.625
+84	4	DEN-007  - OW2 	93	4	Macrofauna - Circalittoral mud	1	0.6625	8e-04	0.625
+86	4	DEN-009  - OW3b 	80	4	Phytoplankton - Coast	0		1e-04	0.625
+86	4	DEN-009  - OW3b 	93	4	Macrofauna - Circalittoral mud	1	0.725	1e-04	0.75
+87	4	DEN-010  - P1 	80	4	Phytoplankton - Coast	0		0	0.625
+87	4	DEN-010  - P1 	93	4	Macrofauna - Circalittoral mud	1	0.3882	0	0.625
+89	4	DEN-012  - P3 	80	4	Phytoplankton - Coast	0		1e-04	0.625
+89	4	DEN-012  - P3 	93	4	Macrofauna - Circalittoral mud	1	0.5382	1e-04	0.75
+90	4	DEN-013  - P4 	80	4	Phytoplankton - Coast	0		3e-04	0.625
+90	4	DEN-013  - P4 	93	4	Macrofauna - Circalittoral mud	1	0.4324	3e-04	0.75
+91	4	DEN-014  - Slusefjord 	93	4	Macrofauna - Circalittoral mud	1	0.6375	1e-04	0.75
+95	4	EST-004  - Pärnu lahe rannikuvesi 	80	4	Phytoplankton - Coast	2	0.5924	1e-04	0.6875
+95	4	EST-004  - Pärnu lahe rannikuvesi 	93	4	Macrofauna - Circalittoral mud	1	0.64	1e-04	0.625
+95	4	EST-004  - Pärnu lahe rannikuvesi 	95	4	Macrophytes - Infralittoral coarse sediment	3	0.4412	1e-04	0.6667
+99	4	EST-008  - Liivi lahe rannikuvesi 	80	4	Phytoplankton - Coast	2	0.5609	0.0018	0.6875
+99	4	EST-008  - Liivi lahe rannikuvesi 	93	4	Macrofauna - Circalittoral mud	1	0.638	9e-04	0.625
+99	4	EST-008  - Liivi lahe rannikuvesi 	95	4	Macrophytes - Infralittoral coarse sediment	4	0.505	9e-04	0.7188
+100	4	FIN-001  - Lounainen sisäsaaristo 	80	4	Phytoplankton - Coast	2	0.1316	2e-04	0.75
+100	4	FIN-001  - Lounainen sisäsaaristo 	93	4	Macrofauna - Circalittoral mud	1	0.4744	1e-04	0.75
+100	4	FIN-001  - Lounainen sisäsaaristo 	95	4	Macrophytes - Infralittoral coarse sediment	3	0.0695	1e-04	0.75
+101	4	FIN-002  - Lounainen ulkosaaristo 	80	4	Phytoplankton - Coast	2	0.3116	3e-04	0.75
+101	4	FIN-002  - Lounainen ulkosaaristo 	93	4	Macrofauna - Circalittoral mud	1	0.5265	2e-04	0.75
+101	4	FIN-002  - Lounainen ulkosaaristo 	95	4	Macrophytes - Infralittoral coarse sediment	3	0.2095	2e-04	0.75
+102	4	FIN-003  - Suomenlahden sisäsaaristo 	80	4	Phytoplankton - Coast	2	0.2078	3e-04	0.75
+102	4	FIN-003  - Suomenlahden sisäsaaristo 	93	4	Macrofauna - Circalittoral mud	1	0.4552	2e-04	0.75
+102	4	FIN-003  - Suomenlahden sisäsaaristo 	95	4	Macrophytes - Infralittoral coarse sediment	3	0.303	2e-04	0.75
+103	4	FIN-004  - Suomenlahden ulkosaaristo 	80	4	Phytoplankton - Coast	2	0.2112	6e-04	0.75
+103	4	FIN-004  - Suomenlahden ulkosaaristo 	93	4	Macrofauna - Circalittoral mud	1	0.3333	3e-04	0.75
+103	4	FIN-004  - Suomenlahden ulkosaaristo 	95	4	Macrophytes - Infralittoral coarse sediment	3	0.3661	3e-04	0.75
+126	4	GER-013  - mesohaline inner coastal waters, Greifswalder Bodden 	80	4	Phytoplankton - Coast	1	0.4895	0	0.625
+126	4	GER-013  - mesohaline inner coastal waters, Greifswalder Bodden 	93	4	Macrofauna - Circalittoral mud	1	0.56	0	0.75
+126	4	GER-013  - mesohaline inner coastal waters, Greifswalder Bodden 	95	4	Macrophytes - Infralittoral coarse sediment	2	0.6517	0	0.75
+129	4	GER-016  - oligohaline inner coastal waters, Peenestrom 	80	4	Phytoplankton - Coast	1	0	0	0.75
+129	4	GER-016  - oligohaline inner coastal waters, Peenestrom 	95	4	Macrophytes - Infralittoral coarse sediment	2	0.5658	0	0.75
+130	4	GER-017  - oligohaline inner coastal waters, Achterwasser 	80	4	Phytoplankton - Coast	1	0	0	0.625
+130	4	GER-017  - oligohaline inner coastal waters, Achterwasser 	93	4	Macrofauna - Circalittoral mud	1	0.19	0	0.75
+130	4	GER-017  - oligohaline inner coastal waters, Achterwasser 	95	4	Macrophytes - Infralittoral coarse sediment	1	0.1579	0	0.75
+131	4	GER-018  - mesohaline open coastal waters, Pommersche Bucht, Nordteil 	80	4	Phytoplankton - Coast	1	0.5881	0	0.625
+131	4	GER-018  - mesohaline open coastal waters, Pommersche Bucht, Nordteil 	93	4	Macrofauna - Circalittoral mud	1	0.55	0	0.75
+131	4	GER-018  - mesohaline open coastal waters, Pommersche Bucht, Nordteil 	95	4	Macrophytes - Infralittoral coarse sediment	2	0.6854	0	0.75
+132	4	GER-019  - mesohaline open coastal waters, Pommersche Bucht, S³dteil 	80	4	Phytoplankton - Coast	1	0.585	0	0.75
+132	4	GER-019  - mesohaline open coastal waters, Pommersche Bucht, S³dteil 	93	4	Macrofauna - Circalittoral mud	1	0.41	0	0.75
+132	4	GER-019  - mesohaline open coastal waters, Pommersche Bucht, S³dteil 	95	4	Macrophytes - Infralittoral coarse sediment	1	0.366	0	0.75
+133	4	GER-020  - oligohaline inner coastal waters, Kleines Haff 	80	4	Phytoplankton - Coast	1	0	1e-04	0.625
+133	4	GER-020  - oligohaline inner coastal waters, Kleines Haff 	93	4	Macrofauna - Circalittoral mud	1	0.23	0	0.75
+133	4	GER-020  - oligohaline inner coastal waters, Kleines Haff 	95	4	Macrophytes - Infralittoral coarse sediment	2	0.5628	0	0.75
+159	4	LAT-002  - South-eastern exposed sandy coast, waterbody B	80	4	Phytoplankton - Coast	2	0.7045	0	0.6875
+159	4	LAT-002  - South-eastern exposed sandy coast, waterbody B	95	4	Macrophytes - Infralittoral coarse sediment	1	0.6	0	0.625
+160	4	LAT-003  - Gulf of Riga sandy coast, waterbodies C&E 	80	4	Phytoplankton - Coast	2	0.3204	0	0.6875
+160	4	LAT-003  - Gulf of Riga sandy coast, waterbodies C&E 	93	4	Macrofauna - Circalittoral mud	1	0.62	0	0.75
+160	4	LAT-003  - Gulf of Riga sandy coast, waterbodies C&E 	95	4	Macrophytes - Infralittoral coarse sediment	1	0.38	0	0.625
+161	4	LAT-004  - Gulf of Riga stony coast, waterbodies D&F 	80	4	Phytoplankton - Coast	2	0.4987	1e-04	0.6875
+161	4	LAT-004  - Gulf of Riga stony coast, waterbodies D&F 	93	4	Macrofauna - Circalittoral mud	1	0.64	0	0.75
+161	4	LAT-004  - Gulf of Riga stony coast, waterbodies D&F 	95	4	Macrophytes - Infralittoral coarse sediment	2	0.4414	0	0.6875
+162	4	LAT-005  - Gulf of Riga transitional waters 	80	4	Phytoplankton - Coast	2	0.3072	2e-04	0.6875
+162	4	LAT-005  - Gulf of Riga transitional waters 	93	4	Macrofauna - Circalittoral mud	1	0.6571	1e-04	0.625
+162	4	LAT-005  - Gulf of Riga transitional waters 	95	4	Macrophytes - Infralittoral coarse sediment	1	0.52	1e-04	0.625
+170	4	POL-002  - PL TW I WB 8 very sheltered, fully mixed, substratum: silt/sandy silt/silty sand: ice cover >90 days, water rwesidence time 52 days 	80	4	Phytoplankton - Coast	1	0.2876	1e-04	0.625
+170	4	POL-002  - PL TW I WB 8 very sheltered, fully mixed, substratum: silt/sandy silt/silty sand: ice cover >90 days, water rwesidence time 52 days 	93	4	Macrofauna - Circalittoral mud	2	0.7012	1e-04	0.75
+170	4	POL-002  - PL TW I WB 8 very sheltered, fully mixed, substratum: silt/sandy silt/silty sand: ice cover >90 days, water rwesidence time 52 days 	95	4	Macrophytes - Infralittoral coarse sediment	1	0.34	1e-04	0.75
+175	4	POL-007  - PL TW V WB 6 river mouth, partly stratified, partly sheltered, substratum: medium grained sand/silty sand 	80	4	Phytoplankton - Coast	0		0	0.75
+175	4	POL-007  - PL TW V WB 6 river mouth, partly stratified, partly sheltered, substratum: medium grained sand/silty sand 	93	4	Macrofauna - Circalittoral mud	1	1	0	0.75
+175	4	POL-007  - PL TW V WB 6 river mouth, partly stratified, partly sheltered, substratum: medium grained sand/silty sand 	95	4	Macrophytes - Infralittoral coarse sediment	1	0.3867	0	0.75
+177	4	POL-009  - PL TW V WB 7 river mouth, partly stratified, partly sheltered, substratum: medium grained sand/silty sand 	80	4	Phytoplankton - Coast	0		1e-04	0.625
+177	4	POL-009  - PL TW V WB 7 river mouth, partly stratified, partly sheltered, substratum: medium grained sand/silty sand 	93	4	Macrofauna - Circalittoral mud	1	1	0	0.75
+177	4	POL-009  - PL TW V WB 7 river mouth, partly stratified, partly sheltered, substratum: medium grained sand/silty sand 	95	4	Macrophytes - Infralittoral coarse sediment	1	0.24	0	0.75
+181	4	POL-013  - PL CW II WB 8 central Polish coast, coastal waters, exposed, fully mixed, substratum: sand/pebbles/gravel 	80	4	Phytoplankton - Coast	0		1e-04	0.75
+181	4	POL-013  - PL CW II WB 8 central Polish coast, coastal waters, exposed, fully mixed, substratum: sand/pebbles/gravel 	93	4	Macrofauna - Circalittoral mud	1	1	0	0.75
+181	4	POL-013  - PL CW II WB 8 central Polish coast, coastal waters, exposed, fully mixed, substratum: sand/pebbles/gravel 	95	4	Macrophytes - Infralittoral coarse sediment	1	0.3911	0	0.75
+183	4	POL-015  - PL CW II WB 6E central Polish coast, coastal waters, exposed, fully mixed, substratum: sand/pebbles/gravel 	80	4	Phytoplankton - Coast	0		0	0.625
+183	4	POL-015  - PL CW II WB 6E central Polish coast, coastal waters, exposed, fully mixed, substratum: sand/pebbles/gravel 	93	4	Macrofauna - Circalittoral mud	1	1	0	0.75
+183	4	POL-015  - PL CW II WB 6E central Polish coast, coastal waters, exposed, fully mixed, substratum: sand/pebbles/gravel 	95	4	Macrophytes - Infralittoral coarse sediment	1	0.4286	0	0.75
+186	4	POL-018  - PL CW III WB 9 central Polish coast, coastal waters, exposed, fully mixed, substratum: sand/pebbles/gravel 	80	4	Phytoplankton - Coast	0		0	0.75
+186	4	POL-018  - PL CW III WB 9 central Polish coast, coastal waters, exposed, fully mixed, substratum: sand/pebbles/gravel 	93	4	Macrofauna - Circalittoral mud	1	1	0	0.75
+186	4	POL-018  - PL CW III WB 9 central Polish coast, coastal waters, exposed, fully mixed, substratum: sand/pebbles/gravel 	95	4	Macrophytes - Infralittoral coarse sediment	1	0.3883	0	0.75
+187	4	POL-019  - PL CW III WB 7 central Polish coast, coastal waters, exposed, fully mixed, substratum: sand/pebbles/gravel 	80	4	Phytoplankton - Coast	0		1e-04	0.625
+187	4	POL-019  - PL CW III WB 7 central Polish coast, coastal waters, exposed, fully mixed, substratum: sand/pebbles/gravel 	93	4	Macrofauna - Circalittoral mud	1	1	0	0.75
+187	4	POL-019  - PL CW III WB 7 central Polish coast, coastal waters, exposed, fully mixed, substratum: sand/pebbles/gravel 	95	4	Macrophytes - Infralittoral coarse sediment	1	0.3557	0	0.75
+191	4	SWE-001  - 1s West Coast inner coastal water 	80	4	Phytoplankton - Coast	1	0.6699	1e-04	0.625
+191	4	SWE-001  - 1s West Coast inner coastal water 	93	4	Macrofauna - Circalittoral mud	1	0.4809	0	0.625
+191	4	SWE-001  - 1s West Coast inner coastal water 	95	4	Macrophytes - Infralittoral coarse sediment	2	0.6239	0	0.75
+192	4	SWE-003  - 4 West Coast outer coastal water, Kattegat 	80	4	Phytoplankton - Coast	2	0.9273	2e-04	0.625
+192	4	SWE-003  - 4 West Coast outer coastal water, Kattegat 	93	4	Macrofauna - Circalittoral mud	1	0.5	1e-04	0.625
+192	4	SWE-003  - 4 West Coast outer coastal water, Kattegat 	95	4	Macrophytes - Infralittoral coarse sediment	2	0.7113	1e-04	0.75
+193	4	SWE-004  - 5 South Halland and north Öresund coastal water 	80	4	Phytoplankton - Coast	2	0.8485	3e-04	0.625
+193	4	SWE-004  - 5 South Halland and north Öresund coastal water 	93	4	Macrofauna - Circalittoral mud	1	0.5409	1e-04	0.625
+193	4	SWE-004  - 5 South Halland and north Öresund coastal water 	95	4	Macrophytes - Infralittoral coarse sediment	2	0.6936	1e-04	0.75
+195	4	SWE-006  - 7 Skåne coastal water 	80	4	Phytoplankton - Coast	1	0.6272	2e-04	0.75
+195	4	SWE-006  - 7 Skåne coastal water 	93	4	Macrofauna - Circalittoral mud	1	0.6254	1e-04	0.75
+195	4	SWE-006  - 7 Skåne coastal water 	95	4	Macrophytes - Infralittoral coarse sediment	2	0.6013	1e-04	0.75
+196	4	SWE-007  - 8 Blekinge archipelago and Kalmarsund, inner coastal water 	80	4	Phytoplankton - Coast	1	0.6226	1e-04	0.625
+196	4	SWE-007  - 8 Blekinge archipelago and Kalmarsund, inner coastal water 	93	4	Macrofauna - Circalittoral mud	1	0.6667	0	0.625
+196	4	SWE-007  - 8 Blekinge archipelago and Kalmarsund, inner coastal water 	95	4	Macrophytes - Infralittoral coarse sediment	2	0.6597	0	0.75
+197	4	SWE-008  - 9 Blekinge archipelago and Kalmarsund, outer coastal water 	80	4	Phytoplankton - Coast	1	0.6453	2e-04	0.75
+197	4	SWE-008  - 9 Blekinge archipelago and Kalmarsund, outer coastal water 	93	4	Macrofauna - Circalittoral mud	1	0.7324	1e-04	0.75
+197	4	SWE-008  - 9 Blekinge archipelago and Kalmarsund, outer coastal water 	95	4	Macrophytes - Infralittoral coarse sediment	2	0.638	1e-04	0.75
+214	4	SWE-025  - 25 Göta and Nordre älv estuary	80	4	Phytoplankton - Coast	1	0.3224	0	0.625
+214	4	SWE-025  - 25 Göta and Nordre älv estuary	93	4	Macrofauna - Circalittoral mud	1	0.5	0	0.625
+214	4	SWE-025  - 25 Göta and Nordre älv estuary	95	4	Macrophytes - Infralittoral coarse sediment	1	0.5015	0	0.75
+215	5	EE-1	80	4	Phytoplankton - Coast	2	0.6606	3e-04	0.75
+215	5	EE-1	93	4	Macrofauna - Circalittoral mud	1	0.6641	1e-04	0.75
+215	5	EE-1	95	4	Macrophytes - Infralittoral coarse sediment	4	0.5149	1e-04	0.6875
+216	5	EE-2	80	4	Phytoplankton - Coast	2	0.5714	1e-04	0.75
+216	5	EE-2	93	4	Macrofauna - Circalittoral mud	1	0.6912	1e-04	0.75
+216	5	EE-2	95	4	Macrophytes - Infralittoral coarse sediment	3	0.958	1e-04	0.75
+217	5	EE-3	80	4	Phytoplankton - Coast	1	0.4354	0	0.75
+217	5	EE-3	93	4	Macrofauna - Circalittoral mud	1	0.6819	0	0.75
+217	5	EE-3	95	4	Macrophytes - Infralittoral coarse sediment	3	0.7815	0	0.75
+218	5	EE-4	80	4	Phytoplankton - Coast	2	0.4685	1e-04	0.75
+218	5	EE-4	93	4	Macrofauna - Circalittoral mud	1	0.7184	0	0.75
+218	5	EE-4	95	4	Macrophytes - Infralittoral coarse sediment	4	0.7203	0	0.75
+219	5	EE-5	80	4	Phytoplankton - Coast	2	0.5058	1e-04	0.75
+219	5	EE-5	93	4	Macrofauna - Circalittoral mud	1	0.571	1e-04	0.75
+219	5	EE-5	95	4	Macrophytes - Infralittoral coarse sediment	4	0.6488	1e-04	0.75
+220	5	EE-6	80	4	Phytoplankton - Coast	2	0.5301	1e-04	0.75
+220	5	EE-6	93	4	Macrofauna - Circalittoral mud	1	0.6181	1e-04	0.75
+220	5	EE-6	95	4	Macrophytes - Infralittoral coarse sediment	4	0.5079	1e-04	0.75

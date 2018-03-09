@@ -1,0 +1,99 @@
+ECID	EcosystemComponent	EcosystemLevel	ParentID	count_ind	count_conf	EQR_self	EQR	D1C1	D1C2	D1C3	D1C4	D1C5	D1C6	D4C1	D4C2	D4C3	D4C4	D6C4	D6C5
+1	Biodiversity	1		0	0		0.5945		0.6112	0.6143	0.7468		0.4171						0.435
+2	Birds	2	1	2	2	0.6332	0.6332		0.6332										
+3	Mammals	2	1	0	0		0.7104		0.7016	0.6143	0.7468								
+4	Fish	2	1	0	0		0.2497		0.2497										
+5	Pelagic habitat	2	1	0	0		0.4071						0.4171						
+6	Benthic habitat	2	1	0	0		0.435												0.435
+7	Grazing birds	3	2	0	0														
+8	Wading birds	3	2	0	0														
+9	Surface-feeding birds	3	2	0	0														
+10	Pelagic-feeding birds	3	2	0	0														
+11	Benthic-feeding birds	3	2	0	0														
+12	Small toothed cetaceans	3	3	0	0														
+13	Seals	3	3	0	0		0.7104		0.7016	0.6143	0.7468								
+14	Coastal fish	3	4	0	0		0.4923		0.4923										
+15	Pelagic shelf fish	3	4	0	0		0.1292		0.1292										
+16	Demersal shelf fish	3	4	0	0		0.45		0.45										
+17	Coastal pelagic habitats	3	5	0	0		0.3734						0.4832						
+18	Shelf pelagic habitats	3	5	4	4	0.4457	0.4111						0.4111						
+19	Infralittoral rock and biogenic reef	3	6	0	0														
+20	Infralittoral coarse sediment	3	6	0	0		0.4877												0.4877
+21	Infralittoral mixed sediment	3	6	0	0														
+22	Infralittoral sand	3	6	0	0														
+23	Infralittoral mud	3	6	0	0														
+24	Circalittoral rock and biogenic reef	3	6	0	0														
+25	Circalittoral coarse sediment	3	6	0	0														
+26	Circalittoral mixed sediment	3	6	0	0														
+27	Circalittoral sand	3	6	0	0														
+28	Circalittoral mud	3	6	0	0		0.4297												0.4297
+29	Mute Swan	4	7	0	0														
+30	Common Ringed Plover	4	8	0	0														
+31	Dunlin	4	8	0	0														
+32	Eurasian Oystercatcher 	4	8	0	0														
+33	Pied Avocet 	4	8	0	0														
+34	Ruddy Turnstone	4	8	0	0														
+35	Arctic Skua	4	9	0	0														
+36	Arctic Tern	4	9	0	0														
+37	Common Tern 	4	9	0	0														
+38	Little Tern 	4	9	0	0														
+39	Sandwich tern	4	9	0	0														
+40	Caspian tern	4	9	0	0														
+41	Common Gull	4	9	0	0														
+42	Herring Gull 	4	9	0	0														
+43	Lesser Black-backed Gull 	4	9	0	0														
+44	Great Black-backed Gull 	4	9	0	0														
+45	Great cormorant	4	10	0	0														
+46	Great Crested Grebe	4	10	0	0														
+47	Red-breasted Merganser	4	10	0	0														
+48	Goosander	4	10	0	0														
+49	Smew	4	10	0	0														
+50	Black Guillemot 	4	10	0	0														
+51	Common Guillemot	4	10	0	0														
+52	Razorbill	4	10	0	0														
+53	Common eider	4	11	0	0														
+54	Common Goldeneye	4	11	0	0														
+55	Common Pochard	4	11	0	0														
+56	Greater Scaup	4	11	0	0														
+57	Steller's eider	4	11	0	0														
+58	Tufted Duck	4	11	0	0														
+59	Velvet Scoter	4	11	0	0														
+60	Harbour porpoise	4	12	0	0														
+61	Grey seal	4	13	12	24	0.7371	0.7371		0.72	0.6143	1								
+62	Harbour seal	4	13	4	10	0.8483	0.8483		0.6966		1								
+63	Ringed seal	4	13	2	10	0.0667	0.0667				0.0667								
+64	Perch	4	14	5	5	0.5542	0.5542		0.5542										
+65	Pikeperch	4	14	0	0														
+66	Sea trout	4	14	9	9	0.4991	0.4991		0.4991										
+67	Cyprinids	4	14	6	6	0.4437	0.4437		0.4437										
+68	Piscivores	4	14	4	4	0.4641	0.4641		0.4641										
+69	Salmon	4	15	3	3	0.1292	0.1292		0.1292										
+70	Herring	4	15	0	0														
+71	Sprat	4	15	0	0														
+72	Cod	4	16	0	0														
+73	Brill	4	16	0	0														
+74	Common dab	4	16	0	0														
+75	Flounder	4	16	2	2	0.45	0.45		0.45										
+76	Plaice	4	16	0	0														
+77	Sole	4	16	0	0														
+78	Turbot	4	16	0	0														
+79	European eel	4	16	0	0														
+80	Phytoplankton - Coast	4	17	62	62	0.3734	0.3734						0.4832						
+81	Zooplankton - Coast	4	17	0	0														
+82	Phytoplankton -Shelf	4	18	0	0														
+83	Zooplankton - Shelf	4	18	2	4	0.3	0.3						0.3						
+84	Macrofauna - Infralittoral rock and biogenic reef	4	19	0	0														
+85	Macrofauna - Infralittoral coarse sediment	4	20	0	0														
+86	Macrofauna - Infralittoral mixed sediment	4	21	0	0														
+87	Macrofauna - Infralittoral sand	4	22	0	0														
+88	Macrofauna - Infralittoral mud	4	23	0	0														
+89	Macrofauna - Circalittoral rock and biogenic reef	4	24	0	0														
+90	Macrofauna - Circalittoral coarse sediment	4	25	0	0														
+91	Macrofauna - Circalittoral mixed sediment	4	26	0	0														
+92	Macrofauna - Circalittoral sand	4	27	0	0														
+93	Macrofauna - Circalittoral mud	4	28	46	46	0.4297	0.4297												0.4297
+94	Macrophytes - Infralittoral rock and biogenic reef	4	19	0	0														
+95	Macrophytes - Infralittoral coarse sediment	4	20	76	76	0.4877	0.4877												0.4877
+96	Macrophytes - Infralittoral mixed sediment	4	21	0	0														
+97	Macrophytes - Infralittoral sand	4	22	0	0														
+98	Macrophytes - Infralittoral mud	4	23	0	0														

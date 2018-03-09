@@ -1,0 +1,12 @@
+DescID;Descriptor
+1;Biodiversity
+2;Non-indigenous species
+3;Commercially exploited fish and shellfish
+4;Marine food webs
+5;Eutrophication
+6;Sea-floor integrity
+7;Hydrographical conditions
+8;Contaminant concentrations
+9;Contaminants in fish and seafood
+10;Marine litter
+11;Energy including noise

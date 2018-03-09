@@ -1,0 +1,221 @@
+SAU;Level;SAUID;ParentID;Area_km2
+Baltic Sea;1;1;;417240
+Kattegat;2;2;1;23708
+Great Belt;2;3;1;10760
+The Sound;2;4;1;1207
+Kiel Bay;2;5;1;3356
+Bay of Mecklenburg;2;6;1;4619
+Arkona Basin;2;7;1;17615
+Bornholm Basin;2;8;1;42218
+Gdansk Basin;2;9;1;5875
+Eastern Gotland Basin;2;10;1;75090
+Western Gotland Basin;2;11;1;27683
+Gulf of Riga;2;12;1;18784
+Northern Baltic Proper;2;13;1;39667
+Gulf of Finland;2;14;1;29906
+Åland Sea;2;15;1;16153
+Bothnian Sea;2;16;1;60104
+The Quark;2;17;1;8245
+Bothnian Bay;2;18;1;32250
+Kattegat  - open sea;3;19;2;15672
+Great Belt  - open sea;3;20;3;1944
+The Sound  - open sea;3;21;4;254
+Kiel Bay  - open sea;3;22;5;2716
+Bay of Mecklenburg  - open sea;3;23;6;3477
+Arkona Basin  - open sea;3;24;7;13458
+Bornholm Basin  - open sea;3;25;8;38836
+Gdansk Basin  - open sea;3;26;9;3650
+Eastern Gotland Basin  - open sea;3;27;10;70749
+Western Gotland Basin  - open sea;3;28;11;21927
+Gulf of Riga  - open sea;3;29;12;8674
+Northern Baltic Proper  - open sea;3;30;13;31573
+Gulf of Finland  - open sea;3;31;14;16591
+Åland Sea  - open sea;3;32;15;1903
+Bothnian Sea  - open sea;3;33;16;49581
+The Quark  - open sea;3;34;17;2869
+Bothnian Bay - open sea;3;35;18;21347
+Bothnian Bay Finnish Coastal waters;3;36;18;5551
+Bothnian Bay Swedish Coastal waters;3;37;18;5352
+The Quark Finnish Coastal waters;3;38;17;3482
+The Quark Swedish Coastal waters;3;39;17;1894
+Bothnian Sea Finnish Coastal waters;3;40;16;4269
+Bothnian Sea Swedish Coastal waters;3;41;16;6254
+Åland Sea Finnish Coastal waters;3;42;15;1872
+Åland Sea Swedish Coastal waters;3;43;15;1692
+Archipelago Sea Coastal waters;3;44;13;10686
+Northern Baltic Proper Finnish Coastal waters;3;45;13;1338
+Northern Baltic Proper Swedish Coastal waters;3;46;13;4892
+Northern Baltic Proper Estonian Coastal waters;3;47;13;1864
+Gulf of Finland Finnish Coastal waters;3;48;14;5767
+Gulf of Finland Estonian Coastal waters;3;49;14;3706
+Gulf of Finland Russian Coastal waters;3;50;14;3842
+Gulf of Riga Estonian Coastal waters;3;51;12;8366
+Gulf of Riga Latvian Coastal waters;3;52;12;1744
+Western Gotland Basin Swedish Coastal waters;3;53;11;5756
+Eastern Gotland Basin Estonian Coastal waters;3;54;10;594
+Eastern Gotland Basin Latvian Coastal waters;3;55;10;550
+Eastern Gotland Basin Lithuanian Coastal waters;3;56;10;622
+Eastern Gotland Basin Swedish Coastal waters;3;57;10;1095
+Eastern Gotland Basin Russian Coastal waters;3;58;10;1372
+Eastern Gotland Basin Polish Coastal waters;3;59;10;108
+Gdansk Basin Russian Coastal waters;3;60;9;625
+Gdansk Basin Polish Coastal waters;3;61;9;1600
+Bornholm Basin Swedish Coastal waters;3;62;8;1614
+Bornholm Basin Polish Coastal waters;3;63;8;905
+Bornholm Basin Danish Coastal waters;3;64;8;233
+Bornholm Basin German Coastal waters;3;65;8;630
+Arkona Basin Swedish Coastal waters;3;66;7;415
+Arkona Basin Danish Coastal waters;3;67;7;1741
+Arkona Basin German Coastal waters;3;68;7;2001
+Mecklenburg Bight German Coastal waters;3;69;6;840
+Mecklenburg Bight Danish Coastal waters;3;70;6;302
+Kiel Bight Danish Coastal waters;3;71;5;91
+Kiel Bight German Coastal waters;3;72;5;549
+Belts Danish Coastal waters;3;73;3;8816
+The Sound Swedish Coastal waters;3;74;4;621
+The Sound Danish Coastal waters;3;75;4;332
+Kattegat Swedish Coastal waters;3;76;2;2239
+Kattegat Danish Coastal waters, including Limfjorden;3;77;2;5797
+DEN-001  - M1 ;4;78;77;116
+DEN-002  - M2 ;4;79;;
+DEN-003  - M3 ;4;80;77;116
+DEN-004  - M4 ;4;81;;
+DEN-005  - O3 ;4;82;77;58
+DEN-006  - O4 ;4;83;77;29
+DEN-007  - OW2 ;4;84;77;3478
+DEN-008  - OW3a ;4;85;;
+DEN-009  - OW3b ;4;86;64;233
+DEN-010  - P1 ;4;87;77;145
+DEN-011  - P2 ;4;88;;
+DEN-012  - P3 ;4;89;77;580
+DEN-013  - P4 ;4;90;77;1159
+DEN-014  - Slusefjord ;4;91;77;116
+EST-001  - Väikse Vaina N ;4;92;;
+EST-002  - Väikse Vaina S ;4;93;;
+EST-003  - Narva-Kunda lahe rannikuvesi ;4;94;49;1853
+EST-004  - Pärnu lahe rannikuvesi ;4;95;51;523
+EST-005  - Muuga-Tallinna-Kakumäe lahe rannikuvesi;4;96;49;1853
+EST-006  - Soela väina rannikuvesi ;4;97;;
+EST-007  - Haapsalu lahe rannikuvesi ;4;98;;
+EST-008  - Liivi lahe rannikuvesi ;4;99;51;7843
+FIN-001  - Lounainen sisäsaaristo ;4;100;48;640.777777777778
+FIN-002  - Lounainen ulkosaaristo ;4;101;48;1281.55555555556
+FIN-003  - Suomenlahden sisäsaaristo ;4;102;48;1281.55555555556
+FIN-004  - Suomenlahden ulkosaaristo ;4;103;48;2563.11111111111
+FIN-005  - Lounainen välisaaristo ;4;104;;
+FIN-006  - Merenkurkun sisäsaaristo ;4;105;;
+FIN-007  - Merenkurkun ulkosaaristo ;4;106;;
+FIN-008  - Selkämeren sisemmät rannikkovedet ;4;107;;
+FIN-009  - Selkämeren ulommat rannikkovedet ;4;108;;
+FIN-010  - Perämeren sisemmät rannikkovedet ;4;109;;
+FIN-011  - Perämeren ulommat rannikkovedet ;4;110;;
+FIN-012  - Åland innerskärgård ;4;111;;
+FIN-013  - Åland mellanskärgärd ;4;112;;
+FIN-014  - Åland ytterskärgärd ;4;113;;
+GER-001  - mesohaline inner coastal waters, Wismarbucht, Suedteil ;4;114;;
+GER-002  - mesohaline inner coastal waters, Wismarbucht, Nordteil ;4;115;;
+GER-003  - mesohaline inner coastal waters, Wismarbucht, Salzhaff ;4;116;;
+GER-004  - mesohaline open coastal waters, Suedliche Mecklenburger Bucht/ Travemuende bis Warnemünde ;4;117;;
+GER-005  - mesohaline inner coastal waters, Unterwarnow ;4;118;;
+GER-006  - mesohaline open coastal waters, Suedliche Mecklenburger Bucht/ Warnem³nde bis Darss;4;119;;
+GER-007  - oligohaline inner coastal waters, Ribnitzer See / Saaler Bodden ;4;120;;
+GER-008  - oligohaline inner coastal waters, Koppelstrom / Bodstedter Bodden ;4;121;;
+GER-009  - mesohaline inner coastal waters, Barther Bodden, Grabow ;4;122;;
+GER-010  - mesohaline open coastal waters, Prerowbucht/ Darsser Ort bis Dornbusch ;4;123;;
+GER-011  - mesohaline inner coastal waters, Nord- und Westruegensche Bodden ;4;124;;
+GER-012  - mesohaline inner coastal waters, Strelasund ;4;125;;
+GER-013  - mesohaline inner coastal waters, Greifswalder Bodden ;4;126;65;27
+GER-014  - mesohaline inner coastal waters, Kleiner Jasmunder Bodden ;4;127;;
+GER-015  - mesohaline open coastal waters, Nord- und Ostruegensche Gewaesser ;4;128;;
+GER-016  - oligohaline inner coastal waters, Peenestrom ;4;129;65;87
+GER-017  - oligohaline inner coastal waters, Achterwasser ;4;130;65;87
+GER-018  - mesohaline open coastal waters, Pommersche Bucht, Nordteil ;4;131;65;107
+GER-019  - mesohaline open coastal waters, Pommersche Bucht, S³dteil ;4;132;65;54
+GER-020  - oligohaline inner coastal waters, Kleines Haff ;4;133;65;268
+GER-021  - mesohaline inner coastal waters, Flensburg Innenfoerde ;4;134;;
+GER-022  - mesohaline open coastal waters, Geltinger Bucht ;4;135;;
+GER-023  - meso- to polyhaline open coastal waters, seasonally stratified, Flensburger Aussenfoerde ;4;136;;
+GER-024  - mesohaline open coastal waters, Aussenschlei ;4;137;;
+GER-025  - mesohaline inner coastal waters, Schleimuende ;4;138;;
+GER-026  - mesohaline inner coastal waters, Mittlere Schlei ;4;139;;
+GER-027  - mesohaline inner coastal waters, Innere Schlei ;4;140;;
+GER-028  - mesohaline open coastal waters, Eckerfoerder Bucht, Rand ;4;141;;
+GER-029  - meso- to polyhaline open coastal waters, seasonally stratified, Eckerfoerderbucht, Tiefe ;4;142;;
+GER-030  - mesohaline open coastal waters, Buelk ;4;143;;
+GER-031  - meso- to polyhaline open coastal waters, seasonally stratified, Kieler Aussenfoerde ;4;144;;
+GER-032  - mesohaline inner coastal waters, Kieler Innenfoerde ;4;145;;
+GER-033  - mesohaline open coastal waters, Probstei ;4;146;;
+GER-034  - mesohaline open coastal waters, Putlos ;4;147;;
+GER-035  - meso- to polyhaline open coastal waters, seasonally stratified, Hohwachter Bucht ;4;148;;
+GER-036  - mesohaline open coastal waters, Fehmarnsund ;4;149;;
+GER-037  - mesohaline inner coastal waters, Orther Bucht ;4;150;;
+GER-038  - mesohaline open coastal waters, Fehmarnbelt ;4;151;;
+GER-039  - meso- to polyhaline open coastal waters, seasonally stratified, Fehmarn Sund Ost ;4;152;;
+GER-040  - mesohaline open coastal waters, Groemitz ;4;153;;
+GER-041  - mesohaline open coastal waters, Neustaedter Bucht ;4;154;;
+GER-042  - mesohaline inner coastal waters, Travemuende ;4;155;;
+GER-043  - mesohaline inner coastal waters, Poetenitzer Wiek ;4;156;;
+GER-044  - mesohaline inner coastal waters, Untere Trave ;4;157;;
+LAT-001  - South-eastern exposed stony coast, waterbody A ;4;158;;
+LAT-002  - South-eastern exposed sandy coast, waterbody B;4;159;52;194
+LAT-003  - Gulf of Riga sandy coast, waterbodies C&E ;4;160;52;194
+LAT-004  - Gulf of Riga stony coast, waterbodies D&F ;4;161;52;387.5
+LAT-005  - Gulf of Riga transitional waters ;4;162;52;775
+LIT-001  - Heavily modified waterbody. Klaipeda Strait ;4;163;;
+LIT-002  - Coastal waters. Southern coastal sandy coast ;4;164;;
+LIT-003  - Coastal waters. Nothern coastal stony coast;4;165;;
+LIT-004  - Transitional waters. Central part of the lagoon ;4;166;;
+LIT-005  - Transitional waters. Nothern part of the lagoon ;4;167;;
+LIT-006  - Transitional waters. Plume of the lagoon ;4;168;;
+POL-001  - PL TW I WB 9 very sheltered, fully mixed, substratum: silt/sandy silt/silty sand: ice cover >90 days, water rwesidence time 52 days ;4;169;63;50
+POL-002  - PL TW I WB 8 very sheltered, fully mixed, substratum: silt/sandy silt/silty sand: ice cover >90 days, water rwesidence time 52 days ;4;170;63;294
+POL-003  - PL TW I WB 1 very sheltered, fully mixed, substratum: silt/sandy silt/silty sand: ice cover >90 days, water rwesidence time 52 days ;4;171;;
+POL-004  - PL TW II WB 2 very sheltered, fully mixed, substratum: lagoonal fine snd medium grained sand/silty sand: residence time 138 day, ice cover >90 days ;4;172;;
+POL-005  - PL TW III WB 3 partly protected, partly stratified, substratum: medium grained sand/pebbles/marine silty sand: ice-incidental ;4;173;;
+POL-006  - PL TW IV WB 4 partly stratified, moderately exposed, substratum: sand/silt: ice - incidental ;4;174;;
+POL-007  - PL TW V WB 6 river mouth, partly stratified, partly sheltered, substratum: medium grained sand/silty sand ;4;175;63;5
+POL-008  - PL TW V WB 5 river mouth, partly stratified, partly sheltered, substratum: medium grained sand/silty sand ;4;176;;
+POL-009  - PL TW V WB 7 river mouth, partly stratified, partly sheltered, substratum: medium grained sand/silty sand ;4;177;63;124
+POL-010  - PL CWI WB2 coastal waters, moderately exposed, fully mixed, substratum:sand/fine sand ;4;178;;
+POL-011  - PL CWI WB1 coastal waters, moderately exposed, fully mixed, substratum:sand/fine sand ;4;179;;
+POL-012  - PL CWI WB3 coastal waters, moderately exposed, fully mixed, substratum:sand/fine sand ;4;180;;
+POL-013  - PL CW II WB 8 central Polish coast, coastal waters, exposed, fully mixed, substratum: sand/pebbles/gravel ;4;181;63;196
+POL-014  - PL CW II WB 6W central Polish coast, coastal waters, exposed, fully mixed, substratum: sand/pebbles/gravel ;4;182;63;50
+POL-015  - PL CW II WB 6E central Polish coast, coastal waters, exposed, fully mixed, substratum: sand/pebbles/gravel ;4;183;63;50
+POL-016  - PL CWII WB5 central Polish coast, coastal waters, exposed, fully mixed, substratum: sand/pebbles/gravel ;4;184;63;50
+POL-017  - PL CWII WB4 central Polish coast, coastal waters, exposed, fully mixed, substratum: sand/pebbles/gravel ;4;185;;
+POL-018  - PL CW III WB 9 central Polish coast, coastal waters, exposed, fully mixed, substratum: sand/pebbles/gravel ;4;186;63;74
+POL-019  - PL CW III WB 7 central Polish coast, coastal waters, exposed, fully mixed, substratum: sand/pebbles/gravel ;4;187;63;124
+RUS-001  - Eastern Gulf of Finland ;4;188;50;3842
+RUS-002  - Russian coast of Baltic Proper ;4;189;;
+RUS-003  - Russian coast of Gulf of Gdansk ;4;190;;
+SWE-001  - 1s West Coast inner coastal water ;4;191;76;298.5
+SWE-003  - 4 West Coast outer coastal water, Kattegat ;4;192;76;746.4
+SWE-004  - 5 South Halland and north Öresund coastal water ;4;193;76;1119.5
+SWE-005  - 6 Öresund coastal water ;4;194;;
+SWE-006  - 7 Skåne coastal water ;4;195;62;645.6
+SWE-007  - 8 Blekinge archipelago and Kalmarsund, inner coastal water ;4;196;62;322.8
+SWE-008  - 9 Blekinge archipelago and Kalmarsund, outer coastal water ;4;197;62;645.6
+SWE-009  - 10 Öland and Gotland coastal water ;4;198;;
+SWE-010  - 11 Gotland north-west coastal water ;4;199;;
+SWE-011  - 12n Östergötland and Stockholm archipelago, middle coastal water ;4;200;;
+SWE-012  - 12s Östergötland and Stockholm archipelago, middle coastal water ;4;201;;
+SWE-013  - 13 Östergötland inner coastal water ;4;202;;
+SWE-014  - 14 Östergötland outer coastal water ;4;203;;
+SWE-015  - 15 Stockholm archipelago, outer coastal water;4;204;;
+SWE-016  - 16 South Bothnian Sea,inner coastal water ;4;205;;
+SWE-017  - 17 South Bothnian Sea, outer coastal water ;4;206;;
+SWE-018  - 18 North Bothnian Sea, Höga kusten, inner coastal water ;4;207;;
+SWE-019  - 19 North Bothnian Sea, Höga kusten, outer coastal water ;4;208;;
+SWE-020  - 20 North Quark inner coastal water ;4;209;;
+SWE-021  - 21 North Quark outer coastal water ;4;210;;
+SWE-022  - 22 North Bothnian Bay, inner coastal water ;4;211;;
+SWE-023  - 23 North Bothnian Bay, outer coastal water ;4;212;;
+SWE-024  - 24 Stockholm inner archipelago ;4;213;;
+SWE-025  - 25 Göta and Nordre älv estuary;4;214;76;74.6
+EE-1;5;215;94;1235
+EE-2;5;216;94;618
+EE-3;5;217;96;205
+EE-4;5;218;96;412
+EE-5;5;219;96;618
+EE-6;5;220;96;618

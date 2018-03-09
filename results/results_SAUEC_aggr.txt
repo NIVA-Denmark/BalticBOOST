@@ -1,0 +1,395 @@
+SAUID	SAUlevel	SAU	ECID	EClevel	EcosystemComponent	EQR	D1C1	D1C2	D1C3	D1C4	D1C5	D1C6	D4C1	D4C2	D4C3	D4C4	D6C4	D6C5
+1	1	Baltic Sea	1	1	Biodiversity	0.5945		0.6112	0.6143	0.7468		0.4071						0.435
+1	1	Baltic Sea	2	2	Birds	0.6332		0.6332										
+1	1	Baltic Sea	3	2	Mammals	0.7104		0.7016	0.6143	0.7468								
+1	1	Baltic Sea	4	2	Fish	0.2497		0.2497										
+1	1	Baltic Sea	5	2	Pelagic habitat	0.4071						0.4071						
+1	1	Baltic Sea	6	2	Benthic habitat	0.435												0.435
+1	1	Baltic Sea	13	3	Seals	0.7104		0.7016	0.6143	0.7468								
+1	1	Baltic Sea	14	3	Coastal fish	0.4923		0.4923										
+1	1	Baltic Sea	15	3	Pelagic shelf fish	0.1292		0.1292										
+1	1	Baltic Sea	16	3	Demersal shelf fish	0.45		0.45										
+1	1	Baltic Sea	17	3	Coastal pelagic habitats	0.3734						0.3734						
+1	1	Baltic Sea	18	3	Shelf pelagic habitats	0.4111						0.4111						
+1	1	Baltic Sea	20	3	Infralittoral coarse sediment	0.4877												0.4877
+1	1	Baltic Sea	28	3	Circalittoral mud	0.4297												0.4297
+2	2	Kattegat	1	1	Biodiversity	0.7896		0.8865		1		0.5837						0.5952
+2	2	Kattegat	3	2	Mammals	0.99		0.98		1								
+2	2	Kattegat	4	2	Fish	0.6106		0.6106										
+2	2	Kattegat	5	2	Pelagic habitat	0.5837						0.5837						
+2	2	Kattegat	6	2	Benthic habitat	0.5952												0.5952
+2	2	Kattegat	13	3	Seals	0.99		0.98		1								
+2	2	Kattegat	14	3	Coastal fish	0.7013		0.7013										
+2	2	Kattegat	16	3	Demersal shelf fish	0.45		0.45										
+2	2	Kattegat	17	3	Coastal pelagic habitats	0.2347						0.2347						
+2	2	Kattegat	18	3	Shelf pelagic habitats	0.628						0.628						
+2	2	Kattegat	20	3	Infralittoral coarse sediment	0.6838												0.6838
+2	2	Kattegat	28	3	Circalittoral mud	0.581												0.581
+8	2	Bornholm Basin	1	1	Biodiversity	0.365		0.2103	0.6143	1		0.1797						0.4687
+8	2	Bornholm Basin	3	2	Mammals	0.6336		0.28	0.6143	1								
+8	2	Bornholm Basin	4	2	Fish	0.1854		0.1854										
+8	2	Bornholm Basin	5	2	Pelagic habitat	0.1797						0.1797						
+8	2	Bornholm Basin	6	2	Benthic habitat	0.4687												0.4687
+8	2	Bornholm Basin	13	3	Seals	0.6336		0.28	0.6143	1								
+8	2	Bornholm Basin	14	3	Coastal fish	0.6991		0.6991										
+8	2	Bornholm Basin	15	3	Pelagic shelf fish	0.16		0.16										
+8	2	Bornholm Basin	16	3	Demersal shelf fish	0.45		0.45										
+8	2	Bornholm Basin	17	3	Coastal pelagic habitats	0.2891						0.2891						
+8	2	Bornholm Basin	18	3	Shelf pelagic habitats	0.1733						0.1733						
+8	2	Bornholm Basin	20	3	Infralittoral coarse sediment	0.4874												0.4874
+8	2	Bornholm Basin	28	3	Circalittoral mud	0.4683												0.4683
+12	2	Gulf of Riga	1	1	Biodiversity	0.4034		0.2339	0.6143	0.2533		0.5125						0.5691
+12	2	Gulf of Riga	3	2	Mammals	0.4019		0.72	0.6143	0.2533								
+12	2	Gulf of Riga	4	2	Fish	0.2004		0.2004										
+12	2	Gulf of Riga	5	2	Pelagic habitat	0.5125						0.5125						
+12	2	Gulf of Riga	6	2	Benthic habitat	0.5691												0.5691
+12	2	Gulf of Riga	13	3	Seals	0.4019		0.72	0.6143	0.2533								
+12	2	Gulf of Riga	14	3	Coastal fish	0.3971		0.3971										
+12	2	Gulf of Riga	15	3	Pelagic shelf fish	0.04		0.04										
+12	2	Gulf of Riga	17	3	Coastal pelagic habitats	0.5372						0.5372						
+12	2	Gulf of Riga	18	3	Shelf pelagic habitats	0.5084						0.5084						
+12	2	Gulf of Riga	20	3	Infralittoral coarse sediment	0.5017												0.5017
+12	2	Gulf of Riga	28	3	Circalittoral mud	0.6394												0.6394
+14	2	Gulf of Finland	1	1	Biodiversity	0.344		0.3065	0.6143	0.2533		0.3934						0.308
+14	2	Gulf of Finland	3	2	Mammals	0.4019		0.72	0.6143	0.2533								
+14	2	Gulf of Finland	4	2	Fish	0.2787		0.2787										
+14	2	Gulf of Finland	5	2	Pelagic habitat	0.3934						0.3934						
+14	2	Gulf of Finland	6	2	Benthic habitat	0.308												0.308
+14	2	Gulf of Finland	13	3	Seals	0.4019		0.72	0.6143	0.2533								
+14	2	Gulf of Finland	14	3	Coastal fish	0.4631		0.4631										
+14	2	Gulf of Finland	15	3	Pelagic shelf fish	0.12		0.12										
+14	2	Gulf of Finland	17	3	Coastal pelagic habitats	0.3571						0.3571						
+14	2	Gulf of Finland	18	3	Shelf pelagic habitats	0.3981						0.3981						
+14	2	Gulf of Finland	20	3	Infralittoral coarse sediment	0.4264												0.4264
+14	2	Gulf of Finland	28	3	Circalittoral mud	0.2933												0.2933
+19	3	Kattegat  - open sea	1	1	Biodiversity	0.628						0.628						
+19	3	Kattegat  - open sea	5	2	Pelagic habitat	0.628						0.628						
+19	3	Kattegat  - open sea	18	3	Shelf pelagic habitats	0.628						0.628						
+25	3	Bornholm Basin  - open sea	1	1	Biodiversity	0.3167						0.1733						0.4601
+25	3	Bornholm Basin  - open sea	5	2	Pelagic habitat	0.1733						0.1733						
+25	3	Bornholm Basin  - open sea	6	2	Benthic habitat	0.4601												0.4601
+25	3	Bornholm Basin  - open sea	18	3	Shelf pelagic habitats	0.1733						0.1733						
+25	3	Bornholm Basin  - open sea	28	3	Circalittoral mud	0.4601												0.4601
+29	3	Gulf of Riga  - open sea	1	1	Biodiversity	0.6588						0.6588						
+29	3	Gulf of Riga  - open sea	5	2	Pelagic habitat	0.6588						0.6588						
+29	3	Gulf of Riga  - open sea	18	3	Shelf pelagic habitats	0.6588						0.6588						
+31	3	Gulf of Finland  - open sea	1	1	Biodiversity	0.3891						0.516						0.2623
+31	3	Gulf of Finland  - open sea	5	2	Pelagic habitat	0.516						0.516						
+31	3	Gulf of Finland  - open sea	6	2	Benthic habitat	0.2623												0.2623
+31	3	Gulf of Finland  - open sea	18	3	Shelf pelagic habitats	0.516						0.516						
+31	3	Gulf of Finland  - open sea	28	3	Circalittoral mud	0.2623												0.2623
+48	3	Gulf of Finland Finnish Coastal waters	1	1	Biodiversity	0.3758		0.4639				0.2239						0.3517
+48	3	Gulf of Finland Finnish Coastal waters	4	2	Fish	0.4639		0.4639										
+48	3	Gulf of Finland Finnish Coastal waters	5	2	Pelagic habitat	0.2239						0.2239						
+48	3	Gulf of Finland Finnish Coastal waters	6	2	Benthic habitat	0.3517												0.3517
+48	3	Gulf of Finland Finnish Coastal waters	14	3	Coastal fish	0.4639		0.4639										
+48	3	Gulf of Finland Finnish Coastal waters	17	3	Coastal pelagic habitats	0.2239						0.2239						
+48	3	Gulf of Finland Finnish Coastal waters	20	3	Infralittoral coarse sediment	0.2843												0.2843
+48	3	Gulf of Finland Finnish Coastal waters	28	3	Circalittoral mud	0.419												0.419
+49	3	Gulf of Finland Estonian Coastal waters	1	1	Biodiversity	0.7036		0.8				0.5643						0.65
+49	3	Gulf of Finland Estonian Coastal waters	4	2	Fish	0.8		0.8										
+49	3	Gulf of Finland Estonian Coastal waters	5	2	Pelagic habitat	0.5643						0.5643						
+49	3	Gulf of Finland Estonian Coastal waters	6	2	Benthic habitat	0.65												0.65
+49	3	Gulf of Finland Estonian Coastal waters	14	3	Coastal fish	0.8		0.8										
+49	3	Gulf of Finland Estonian Coastal waters	17	3	Coastal pelagic habitats	0.5643						0.5643						
+49	3	Gulf of Finland Estonian Coastal waters	20	3	Infralittoral coarse sediment	0.6475												0.6475
+49	3	Gulf of Finland Estonian Coastal waters	28	3	Circalittoral mud	0.6524												0.6524
+50	3	Gulf of Finland Russian Coastal waters	1	1	Biodiversity	0.3		0.3										
+50	3	Gulf of Finland Russian Coastal waters	4	2	Fish	0.3		0.3										
+50	3	Gulf of Finland Russian Coastal waters	14	3	Coastal fish	0.3		0.3										
+51	3	Gulf of Riga Estonian Coastal waters	1	1	Biodiversity	0.4661		0.3661				0.5628						0.5696
+51	3	Gulf of Riga Estonian Coastal waters	4	2	Fish	0.3661		0.3661										
+51	3	Gulf of Riga Estonian Coastal waters	5	2	Pelagic habitat	0.5628						0.5628						
+51	3	Gulf of Riga Estonian Coastal waters	6	2	Benthic habitat	0.5696												0.5696
+51	3	Gulf of Riga Estonian Coastal waters	14	3	Coastal fish	0.3661		0.3661										
+51	3	Gulf of Riga Estonian Coastal waters	17	3	Coastal pelagic habitats	0.5628						0.5628						
+51	3	Gulf of Riga Estonian Coastal waters	20	3	Infralittoral coarse sediment	0.501												0.501
+51	3	Gulf of Riga Estonian Coastal waters	28	3	Circalittoral mud	0.6381												0.6381
+52	3	Gulf of Riga Latvian Coastal waters	1	1	Biodiversity	0.5136		0.5375				0.4064						0.567
+52	3	Gulf of Riga Latvian Coastal waters	4	2	Fish	0.5375		0.5375										
+52	3	Gulf of Riga Latvian Coastal waters	5	2	Pelagic habitat	0.4064						0.4064						
+52	3	Gulf of Riga Latvian Coastal waters	6	2	Benthic habitat	0.567												0.567
+52	3	Gulf of Riga Latvian Coastal waters	14	3	Coastal fish	0.5375		0.5375										
+52	3	Gulf of Riga Latvian Coastal waters	17	3	Coastal pelagic habitats	0.4064						0.4064						
+52	3	Gulf of Riga Latvian Coastal waters	20	3	Infralittoral coarse sediment	0.5048												0.5048
+52	3	Gulf of Riga Latvian Coastal waters	28	3	Circalittoral mud	0.6469												0.6469
+62	3	Bornholm Basin Swedish Coastal waters	1	1	Biodiversity	0.6839		0.725				0.6335						0.652
+62	3	Bornholm Basin Swedish Coastal waters	4	2	Fish	0.725		0.725										
+62	3	Bornholm Basin Swedish Coastal waters	5	2	Pelagic habitat	0.6335						0.6335						
+62	3	Bornholm Basin Swedish Coastal waters	6	2	Benthic habitat	0.652												0.652
+62	3	Bornholm Basin Swedish Coastal waters	14	3	Coastal fish	0.725		0.725										
+62	3	Bornholm Basin Swedish Coastal waters	17	3	Coastal pelagic habitats	0.6335						0.6335						
+62	3	Bornholm Basin Swedish Coastal waters	20	3	Infralittoral coarse sediment	0.6277												0.6277
+62	3	Bornholm Basin Swedish Coastal waters	28	3	Circalittoral mud	0.6764												0.6764
+63	3	Bornholm Basin Polish Coastal waters	1	1	Biodiversity	0.3607						0.0975						0.6238
+63	3	Bornholm Basin Polish Coastal waters	5	2	Pelagic habitat	0.0975						0.0975						
+63	3	Bornholm Basin Polish Coastal waters	6	2	Benthic habitat	0.6238												0.6238
+63	3	Bornholm Basin Polish Coastal waters	17	3	Coastal pelagic habitats	0.0975						0.0975						
+63	3	Bornholm Basin Polish Coastal waters	20	3	Infralittoral coarse sediment	0.349												0.349
+63	3	Bornholm Basin Polish Coastal waters	28	3	Circalittoral mud	0.8987												0.8987
+64	3	Bornholm Basin Danish Coastal waters	1	1	Biodiversity	0.3625												0.725
+64	3	Bornholm Basin Danish Coastal waters	5	2	Pelagic habitat													
+64	3	Bornholm Basin Danish Coastal waters	6	2	Benthic habitat	0.725												0.725
+64	3	Bornholm Basin Danish Coastal waters	17	3	Coastal pelagic habitats													
+64	3	Bornholm Basin Danish Coastal waters	28	3	Circalittoral mud	0.725												0.725
+65	3	Bornholm Basin German Coastal waters	1	1	Biodiversity	0.4056		0.5083				0.171						0.4349
+65	3	Bornholm Basin German Coastal waters	4	2	Fish	0.5083		0.5083										
+65	3	Bornholm Basin German Coastal waters	5	2	Pelagic habitat	0.171						0.171						
+65	3	Bornholm Basin German Coastal waters	6	2	Benthic habitat	0.4349												0.4349
+65	3	Bornholm Basin German Coastal waters	14	3	Coastal fish	0.5667		0.5667										
+65	3	Bornholm Basin German Coastal waters	16	3	Demersal shelf fish	0.45		0.45										
+65	3	Bornholm Basin German Coastal waters	17	3	Coastal pelagic habitats	0.171						0.171						
+65	3	Bornholm Basin German Coastal waters	20	3	Infralittoral coarse sediment	0.5212												0.5212
+65	3	Bornholm Basin German Coastal waters	28	3	Circalittoral mud	0.321												0.321
+76	3	Kattegat Swedish Coastal waters	1	1	Biodiversity	0.7586		0.8				0.8334						0.6009
+76	3	Kattegat Swedish Coastal waters	4	2	Fish	0.8		0.8										
+76	3	Kattegat Swedish Coastal waters	5	2	Pelagic habitat	0.8334						0.8334						
+76	3	Kattegat Swedish Coastal waters	6	2	Benthic habitat	0.6009												0.6009
+76	3	Kattegat Swedish Coastal waters	14	3	Coastal fish	0.8		0.8										
+76	3	Kattegat Swedish Coastal waters	17	3	Coastal pelagic habitats	0.8334						0.8334						
+76	3	Kattegat Swedish Coastal waters	20	3	Infralittoral coarse sediment	0.6838												0.6838
+76	3	Kattegat Swedish Coastal waters	28	3	Circalittoral mud	0.5179												0.5179
+77	3	Kattegat Danish Coastal waters, including Limfjorden	1	1	Biodiversity	0.4192		0.5375				0						0.593
+77	3	Kattegat Danish Coastal waters, including Limfjorden	4	2	Fish	0.5375		0.5375										
+77	3	Kattegat Danish Coastal waters, including Limfjorden	5	2	Pelagic habitat	0						0						
+77	3	Kattegat Danish Coastal waters, including Limfjorden	6	2	Benthic habitat	0.593												0.593
+77	3	Kattegat Danish Coastal waters, including Limfjorden	14	3	Coastal fish	0.625		0.625										
+77	3	Kattegat Danish Coastal waters, including Limfjorden	16	3	Demersal shelf fish	0.45		0.45										
+77	3	Kattegat Danish Coastal waters, including Limfjorden	17	3	Coastal pelagic habitats	0						0						
+77	3	Kattegat Danish Coastal waters, including Limfjorden	28	3	Circalittoral mud	0.593												0.593
+78	4	DEN-001  - M1 	1	1	Biodiversity	0.2868						0						0.5735
+78	4	DEN-001  - M1 	5	2	Pelagic habitat	0						0						
+78	4	DEN-001  - M1 	6	2	Benthic habitat	0.5735												0.5735
+78	4	DEN-001  - M1 	17	3	Coastal pelagic habitats	0						0						
+78	4	DEN-001  - M1 	28	3	Circalittoral mud	0.5735												0.5735
+80	4	DEN-003  - M3 	1	1	Biodiversity	0.2956												0.5912
+80	4	DEN-003  - M3 	5	2	Pelagic habitat													
+80	4	DEN-003  - M3 	6	2	Benthic habitat	0.5912												0.5912
+80	4	DEN-003  - M3 	17	3	Coastal pelagic habitats													
+80	4	DEN-003  - M3 	28	3	Circalittoral mud	0.5912												0.5912
+82	4	DEN-005  - O3 	1	1	Biodiversity	0.2824												0.5647
+82	4	DEN-005  - O3 	5	2	Pelagic habitat													
+82	4	DEN-005  - O3 	6	2	Benthic habitat	0.5647												0.5647
+82	4	DEN-005  - O3 	17	3	Coastal pelagic habitats													
+82	4	DEN-005  - O3 	28	3	Circalittoral mud	0.5647												0.5647
+83	4	DEN-006  - O4 	1	1	Biodiversity													
+83	4	DEN-006  - O4 	5	2	Pelagic habitat													
+83	4	DEN-006  - O4 	17	3	Coastal pelagic habitats													
+84	4	DEN-007  - OW2 	1	1	Biodiversity	0.3312												0.6625
+84	4	DEN-007  - OW2 	5	2	Pelagic habitat													
+84	4	DEN-007  - OW2 	6	2	Benthic habitat	0.6625												0.6625
+84	4	DEN-007  - OW2 	17	3	Coastal pelagic habitats													
+84	4	DEN-007  - OW2 	28	3	Circalittoral mud	0.6625												0.6625
+86	4	DEN-009  - OW3b 	1	1	Biodiversity	0.3625												0.725
+86	4	DEN-009  - OW3b 	5	2	Pelagic habitat													
+86	4	DEN-009  - OW3b 	6	2	Benthic habitat	0.725												0.725
+86	4	DEN-009  - OW3b 	17	3	Coastal pelagic habitats													
+86	4	DEN-009  - OW3b 	28	3	Circalittoral mud	0.725												0.725
+87	4	DEN-010  - P1 	1	1	Biodiversity	0.1941												0.3882
+87	4	DEN-010  - P1 	5	2	Pelagic habitat													
+87	4	DEN-010  - P1 	6	2	Benthic habitat	0.3882												0.3882
+87	4	DEN-010  - P1 	17	3	Coastal pelagic habitats													
+87	4	DEN-010  - P1 	28	3	Circalittoral mud	0.3882												0.3882
+89	4	DEN-012  - P3 	1	1	Biodiversity	0.2691												0.5382
+89	4	DEN-012  - P3 	5	2	Pelagic habitat													
+89	4	DEN-012  - P3 	6	2	Benthic habitat	0.5382												0.5382
+89	4	DEN-012  - P3 	17	3	Coastal pelagic habitats													
+89	4	DEN-012  - P3 	28	3	Circalittoral mud	0.5382												0.5382
+90	4	DEN-013  - P4 	1	1	Biodiversity	0.2162												0.4324
+90	4	DEN-013  - P4 	5	2	Pelagic habitat													
+90	4	DEN-013  - P4 	6	2	Benthic habitat	0.4324												0.4324
+90	4	DEN-013  - P4 	17	3	Coastal pelagic habitats													
+90	4	DEN-013  - P4 	28	3	Circalittoral mud	0.4324												0.4324
+91	4	DEN-014  - Slusefjord 	1	1	Biodiversity	0.6375												0.6375
+91	4	DEN-014  - Slusefjord 	6	2	Benthic habitat	0.6375												0.6375
+91	4	DEN-014  - Slusefjord 	28	3	Circalittoral mud	0.6375												0.6375
+94	4	EST-003  - Narva-Kunda lahe rannikuvesi 	1	1	Biodiversity	0.6494						0.6308						0.6679
+94	4	EST-003  - Narva-Kunda lahe rannikuvesi 	5	2	Pelagic habitat	0.6308						0.6308						
+94	4	EST-003  - Narva-Kunda lahe rannikuvesi 	6	2	Benthic habitat	0.6679												0.6679
+94	4	EST-003  - Narva-Kunda lahe rannikuvesi 	17	3	Coastal pelagic habitats	0.6308						0.6308						
+94	4	EST-003  - Narva-Kunda lahe rannikuvesi 	20	3	Infralittoral coarse sediment	0.6627												0.6627
+94	4	EST-003  - Narva-Kunda lahe rannikuvesi 	28	3	Circalittoral mud	0.6731												0.6731
+95	4	EST-004  - Pärnu lahe rannikuvesi 	1	1	Biodiversity	0.5665						0.5924						0.5406
+95	4	EST-004  - Pärnu lahe rannikuvesi 	5	2	Pelagic habitat	0.5924						0.5924						
+95	4	EST-004  - Pärnu lahe rannikuvesi 	6	2	Benthic habitat	0.5406												0.5406
+95	4	EST-004  - Pärnu lahe rannikuvesi 	17	3	Coastal pelagic habitats	0.5924						0.5924						
+95	4	EST-004  - Pärnu lahe rannikuvesi 	20	3	Infralittoral coarse sediment	0.4412												0.4412
+95	4	EST-004  - Pärnu lahe rannikuvesi 	28	3	Circalittoral mud	0.64												0.64
+96	4	EST-005  - Muuga-Tallinna-Kakumäe lahe rannikuvesi	1	1	Biodiversity	0.5649						0.4978						0.6321
+96	4	EST-005  - Muuga-Tallinna-Kakumäe lahe rannikuvesi	5	2	Pelagic habitat	0.4978						0.4978						
+96	4	EST-005  - Muuga-Tallinna-Kakumäe lahe rannikuvesi	6	2	Benthic habitat	0.6321												0.6321
+96	4	EST-005  - Muuga-Tallinna-Kakumäe lahe rannikuvesi	17	3	Coastal pelagic habitats	0.4978						0.4978						
+96	4	EST-005  - Muuga-Tallinna-Kakumäe lahe rannikuvesi	20	3	Infralittoral coarse sediment	0.6324												0.6324
+96	4	EST-005  - Muuga-Tallinna-Kakumäe lahe rannikuvesi	28	3	Circalittoral mud	0.6318												0.6318
+99	4	EST-008  - Liivi lahe rannikuvesi 	1	1	Biodiversity	0.5662						0.5609						0.5715
+99	4	EST-008  - Liivi lahe rannikuvesi 	5	2	Pelagic habitat	0.5609						0.5609						
+99	4	EST-008  - Liivi lahe rannikuvesi 	6	2	Benthic habitat	0.5715												0.5715
+99	4	EST-008  - Liivi lahe rannikuvesi 	17	3	Coastal pelagic habitats	0.5609						0.5609						
+99	4	EST-008  - Liivi lahe rannikuvesi 	20	3	Infralittoral coarse sediment	0.505												0.505
+99	4	EST-008  - Liivi lahe rannikuvesi 	28	3	Circalittoral mud	0.638												0.638
+100	4	FIN-001  - Lounainen sisäsaaristo 	1	1	Biodiversity	0.2018						0.1316						0.2719
+100	4	FIN-001  - Lounainen sisäsaaristo 	5	2	Pelagic habitat	0.1316						0.1316						
+100	4	FIN-001  - Lounainen sisäsaaristo 	6	2	Benthic habitat	0.2719												0.2719
+100	4	FIN-001  - Lounainen sisäsaaristo 	17	3	Coastal pelagic habitats	0.1316						0.1316						
+100	4	FIN-001  - Lounainen sisäsaaristo 	20	3	Infralittoral coarse sediment	0.0695												0.0695
+100	4	FIN-001  - Lounainen sisäsaaristo 	28	3	Circalittoral mud	0.4744												0.4744
+101	4	FIN-002  - Lounainen ulkosaaristo 	1	1	Biodiversity	0.3398						0.3116						0.368
+101	4	FIN-002  - Lounainen ulkosaaristo 	5	2	Pelagic habitat	0.3116						0.3116						
+101	4	FIN-002  - Lounainen ulkosaaristo 	6	2	Benthic habitat	0.368												0.368
+101	4	FIN-002  - Lounainen ulkosaaristo 	17	3	Coastal pelagic habitats	0.3116						0.3116						
+101	4	FIN-002  - Lounainen ulkosaaristo 	20	3	Infralittoral coarse sediment	0.2095												0.2095
+101	4	FIN-002  - Lounainen ulkosaaristo 	28	3	Circalittoral mud	0.5265												0.5265
+102	4	FIN-003  - Suomenlahden sisäsaaristo 	1	1	Biodiversity	0.2934						0.2078						0.3791
+102	4	FIN-003  - Suomenlahden sisäsaaristo 	5	2	Pelagic habitat	0.2078						0.2078						
+102	4	FIN-003  - Suomenlahden sisäsaaristo 	6	2	Benthic habitat	0.3791												0.3791
+102	4	FIN-003  - Suomenlahden sisäsaaristo 	17	3	Coastal pelagic habitats	0.2078						0.2078						
+102	4	FIN-003  - Suomenlahden sisäsaaristo 	20	3	Infralittoral coarse sediment	0.303												0.303
+102	4	FIN-003  - Suomenlahden sisäsaaristo 	28	3	Circalittoral mud	0.4552												0.4552
+103	4	FIN-004  - Suomenlahden ulkosaaristo 	1	1	Biodiversity	0.2805						0.2112						0.3497
+103	4	FIN-004  - Suomenlahden ulkosaaristo 	5	2	Pelagic habitat	0.2112						0.2112						
+103	4	FIN-004  - Suomenlahden ulkosaaristo 	6	2	Benthic habitat	0.3497												0.3497
+103	4	FIN-004  - Suomenlahden ulkosaaristo 	17	3	Coastal pelagic habitats	0.2112						0.2112						
+103	4	FIN-004  - Suomenlahden ulkosaaristo 	20	3	Infralittoral coarse sediment	0.3661												0.3661
+103	4	FIN-004  - Suomenlahden ulkosaaristo 	28	3	Circalittoral mud	0.3333												0.3333
+126	4	GER-013  - mesohaline inner coastal waters, Greifswalder Bodden 	1	1	Biodiversity	0.5477						0.4895						0.6059
+126	4	GER-013  - mesohaline inner coastal waters, Greifswalder Bodden 	5	2	Pelagic habitat	0.4895						0.4895						
+126	4	GER-013  - mesohaline inner coastal waters, Greifswalder Bodden 	6	2	Benthic habitat	0.6059												0.6059
+126	4	GER-013  - mesohaline inner coastal waters, Greifswalder Bodden 	17	3	Coastal pelagic habitats	0.4895						0.4895						
+126	4	GER-013  - mesohaline inner coastal waters, Greifswalder Bodden 	20	3	Infralittoral coarse sediment	0.6517												0.6517
+126	4	GER-013  - mesohaline inner coastal waters, Greifswalder Bodden 	28	3	Circalittoral mud	0.56												0.56
+129	4	GER-016  - oligohaline inner coastal waters, Peenestrom 	1	1	Biodiversity	0.2829						0						0.5658
+129	4	GER-016  - oligohaline inner coastal waters, Peenestrom 	5	2	Pelagic habitat	0						0						
+129	4	GER-016  - oligohaline inner coastal waters, Peenestrom 	6	2	Benthic habitat	0.5658												0.5658
+129	4	GER-016  - oligohaline inner coastal waters, Peenestrom 	17	3	Coastal pelagic habitats	0						0						
+129	4	GER-016  - oligohaline inner coastal waters, Peenestrom 	20	3	Infralittoral coarse sediment	0.5658												0.5658
+130	4	GER-017  - oligohaline inner coastal waters, Achterwasser 	1	1	Biodiversity	0.087						0						0.1739
+130	4	GER-017  - oligohaline inner coastal waters, Achterwasser 	5	2	Pelagic habitat	0						0						
+130	4	GER-017  - oligohaline inner coastal waters, Achterwasser 	6	2	Benthic habitat	0.1739												0.1739
+130	4	GER-017  - oligohaline inner coastal waters, Achterwasser 	17	3	Coastal pelagic habitats	0						0						
+130	4	GER-017  - oligohaline inner coastal waters, Achterwasser 	20	3	Infralittoral coarse sediment	0.1579												0.1579
+130	4	GER-017  - oligohaline inner coastal waters, Achterwasser 	28	3	Circalittoral mud	0.19												0.19
+131	4	GER-018  - mesohaline open coastal waters, Pommersche Bucht, Nordteil 	1	1	Biodiversity	0.6029						0.5881						0.6177
+131	4	GER-018  - mesohaline open coastal waters, Pommersche Bucht, Nordteil 	5	2	Pelagic habitat	0.5881						0.5881						
+131	4	GER-018  - mesohaline open coastal waters, Pommersche Bucht, Nordteil 	6	2	Benthic habitat	0.6177												0.6177
+131	4	GER-018  - mesohaline open coastal waters, Pommersche Bucht, Nordteil 	17	3	Coastal pelagic habitats	0.5881						0.5881						
+131	4	GER-018  - mesohaline open coastal waters, Pommersche Bucht, Nordteil 	20	3	Infralittoral coarse sediment	0.6854												0.6854
+131	4	GER-018  - mesohaline open coastal waters, Pommersche Bucht, Nordteil 	28	3	Circalittoral mud	0.55												0.55
+132	4	GER-019  - mesohaline open coastal waters, Pommersche Bucht, S³dteil 	1	1	Biodiversity	0.4865						0.585						0.388
+132	4	GER-019  - mesohaline open coastal waters, Pommersche Bucht, S³dteil 	5	2	Pelagic habitat	0.585						0.585						
+132	4	GER-019  - mesohaline open coastal waters, Pommersche Bucht, S³dteil 	6	2	Benthic habitat	0.388												0.388
+132	4	GER-019  - mesohaline open coastal waters, Pommersche Bucht, S³dteil 	17	3	Coastal pelagic habitats	0.585						0.585						
+132	4	GER-019  - mesohaline open coastal waters, Pommersche Bucht, S³dteil 	20	3	Infralittoral coarse sediment	0.366												0.366
+132	4	GER-019  - mesohaline open coastal waters, Pommersche Bucht, S³dteil 	28	3	Circalittoral mud	0.41												0.41
+133	4	GER-020  - oligohaline inner coastal waters, Kleines Haff 	1	1	Biodiversity	0.1982						0						0.3964
+133	4	GER-020  - oligohaline inner coastal waters, Kleines Haff 	5	2	Pelagic habitat	0						0						
+133	4	GER-020  - oligohaline inner coastal waters, Kleines Haff 	6	2	Benthic habitat	0.3964												0.3964
+133	4	GER-020  - oligohaline inner coastal waters, Kleines Haff 	17	3	Coastal pelagic habitats	0						0						
+133	4	GER-020  - oligohaline inner coastal waters, Kleines Haff 	20	3	Infralittoral coarse sediment	0.5628												0.5628
+133	4	GER-020  - oligohaline inner coastal waters, Kleines Haff 	28	3	Circalittoral mud	0.23												0.23
+159	4	LAT-002  - South-eastern exposed sandy coast, waterbody B	1	1	Biodiversity	0.6523						0.7045						0.6
+159	4	LAT-002  - South-eastern exposed sandy coast, waterbody B	5	2	Pelagic habitat	0.7045						0.7045						
+159	4	LAT-002  - South-eastern exposed sandy coast, waterbody B	6	2	Benthic habitat	0.6												0.6
+159	4	LAT-002  - South-eastern exposed sandy coast, waterbody B	17	3	Coastal pelagic habitats	0.7045						0.7045						
+159	4	LAT-002  - South-eastern exposed sandy coast, waterbody B	20	3	Infralittoral coarse sediment	0.6												0.6
+160	4	LAT-003  - Gulf of Riga sandy coast, waterbodies C&E 	1	1	Biodiversity	0.4102						0.3204						0.5
+160	4	LAT-003  - Gulf of Riga sandy coast, waterbodies C&E 	5	2	Pelagic habitat	0.3204						0.3204						
+160	4	LAT-003  - Gulf of Riga sandy coast, waterbodies C&E 	6	2	Benthic habitat	0.5												0.5
+160	4	LAT-003  - Gulf of Riga sandy coast, waterbodies C&E 	17	3	Coastal pelagic habitats	0.3204						0.3204						
+160	4	LAT-003  - Gulf of Riga sandy coast, waterbodies C&E 	20	3	Infralittoral coarse sediment	0.38												0.38
+160	4	LAT-003  - Gulf of Riga sandy coast, waterbodies C&E 	28	3	Circalittoral mud	0.62												0.62
+161	4	LAT-004  - Gulf of Riga stony coast, waterbodies D&F 	1	1	Biodiversity	0.5197						0.4987						0.5407
+161	4	LAT-004  - Gulf of Riga stony coast, waterbodies D&F 	5	2	Pelagic habitat	0.4987						0.4987						
+161	4	LAT-004  - Gulf of Riga stony coast, waterbodies D&F 	6	2	Benthic habitat	0.5407												0.5407
+161	4	LAT-004  - Gulf of Riga stony coast, waterbodies D&F 	17	3	Coastal pelagic habitats	0.4987						0.4987						
+161	4	LAT-004  - Gulf of Riga stony coast, waterbodies D&F 	20	3	Infralittoral coarse sediment	0.4414												0.4414
+161	4	LAT-004  - Gulf of Riga stony coast, waterbodies D&F 	28	3	Circalittoral mud	0.64												0.64
+162	4	LAT-005  - Gulf of Riga transitional waters 	1	1	Biodiversity	0.4479						0.3072						0.5886
+162	4	LAT-005  - Gulf of Riga transitional waters 	5	2	Pelagic habitat	0.3072						0.3072						
+162	4	LAT-005  - Gulf of Riga transitional waters 	6	2	Benthic habitat	0.5886												0.5886
+162	4	LAT-005  - Gulf of Riga transitional waters 	17	3	Coastal pelagic habitats	0.3072						0.3072						
+162	4	LAT-005  - Gulf of Riga transitional waters 	20	3	Infralittoral coarse sediment	0.52												0.52
+162	4	LAT-005  - Gulf of Riga transitional waters 	28	3	Circalittoral mud	0.6571												0.6571
+170	4	POL-002  - PL TW I WB 8 very sheltered, fully mixed, substratum: silt/sandy silt/silty sand: ice cover >90 days, water rwesidence time 52 days 	1	1	Biodiversity	0.4041						0.2876						0.5206
+170	4	POL-002  - PL TW I WB 8 very sheltered, fully mixed, substratum: silt/sandy silt/silty sand: ice cover >90 days, water rwesidence time 52 days 	5	2	Pelagic habitat	0.2876						0.2876						
+170	4	POL-002  - PL TW I WB 8 very sheltered, fully mixed, substratum: silt/sandy silt/silty sand: ice cover >90 days, water rwesidence time 52 days 	6	2	Benthic habitat	0.5206												0.5206
+170	4	POL-002  - PL TW I WB 8 very sheltered, fully mixed, substratum: silt/sandy silt/silty sand: ice cover >90 days, water rwesidence time 52 days 	17	3	Coastal pelagic habitats	0.2876						0.2876						
+170	4	POL-002  - PL TW I WB 8 very sheltered, fully mixed, substratum: silt/sandy silt/silty sand: ice cover >90 days, water rwesidence time 52 days 	20	3	Infralittoral coarse sediment	0.34												0.34
+170	4	POL-002  - PL TW I WB 8 very sheltered, fully mixed, substratum: silt/sandy silt/silty sand: ice cover >90 days, water rwesidence time 52 days 	28	3	Circalittoral mud	0.7012												0.7012
+175	4	POL-007  - PL TW V WB 6 river mouth, partly stratified, partly sheltered, substratum: medium grained sand/silty sand 	1	1	Biodiversity	0.3467												0.6933
+175	4	POL-007  - PL TW V WB 6 river mouth, partly stratified, partly sheltered, substratum: medium grained sand/silty sand 	5	2	Pelagic habitat													
+175	4	POL-007  - PL TW V WB 6 river mouth, partly stratified, partly sheltered, substratum: medium grained sand/silty sand 	6	2	Benthic habitat	0.6933												0.6933
+175	4	POL-007  - PL TW V WB 6 river mouth, partly stratified, partly sheltered, substratum: medium grained sand/silty sand 	17	3	Coastal pelagic habitats													
+175	4	POL-007  - PL TW V WB 6 river mouth, partly stratified, partly sheltered, substratum: medium grained sand/silty sand 	20	3	Infralittoral coarse sediment	0.3867												0.3867
+175	4	POL-007  - PL TW V WB 6 river mouth, partly stratified, partly sheltered, substratum: medium grained sand/silty sand 	28	3	Circalittoral mud	1												1
+177	4	POL-009  - PL TW V WB 7 river mouth, partly stratified, partly sheltered, substratum: medium grained sand/silty sand 	1	1	Biodiversity	0.31												0.62
+177	4	POL-009  - PL TW V WB 7 river mouth, partly stratified, partly sheltered, substratum: medium grained sand/silty sand 	5	2	Pelagic habitat													
+177	4	POL-009  - PL TW V WB 7 river mouth, partly stratified, partly sheltered, substratum: medium grained sand/silty sand 	6	2	Benthic habitat	0.62												0.62
+177	4	POL-009  - PL TW V WB 7 river mouth, partly stratified, partly sheltered, substratum: medium grained sand/silty sand 	17	3	Coastal pelagic habitats													
+177	4	POL-009  - PL TW V WB 7 river mouth, partly stratified, partly sheltered, substratum: medium grained sand/silty sand 	20	3	Infralittoral coarse sediment	0.24												0.24
+177	4	POL-009  - PL TW V WB 7 river mouth, partly stratified, partly sheltered, substratum: medium grained sand/silty sand 	28	3	Circalittoral mud	1												1
+181	4	POL-013  - PL CW II WB 8 central Polish coast, coastal waters, exposed, fully mixed, substratum: sand/pebbles/gravel 	1	1	Biodiversity	0.3478												0.6955
+181	4	POL-013  - PL CW II WB 8 central Polish coast, coastal waters, exposed, fully mixed, substratum: sand/pebbles/gravel 	5	2	Pelagic habitat													
+181	4	POL-013  - PL CW II WB 8 central Polish coast, coastal waters, exposed, fully mixed, substratum: sand/pebbles/gravel 	6	2	Benthic habitat	0.6955												0.6955
+181	4	POL-013  - PL CW II WB 8 central Polish coast, coastal waters, exposed, fully mixed, substratum: sand/pebbles/gravel 	17	3	Coastal pelagic habitats													
+181	4	POL-013  - PL CW II WB 8 central Polish coast, coastal waters, exposed, fully mixed, substratum: sand/pebbles/gravel 	20	3	Infralittoral coarse sediment	0.3911												0.3911
+181	4	POL-013  - PL CW II WB 8 central Polish coast, coastal waters, exposed, fully mixed, substratum: sand/pebbles/gravel 	28	3	Circalittoral mud	1												1
+183	4	POL-015  - PL CW II WB 6E central Polish coast, coastal waters, exposed, fully mixed, substratum: sand/pebbles/gravel 	1	1	Biodiversity	0.3571												0.7143
+183	4	POL-015  - PL CW II WB 6E central Polish coast, coastal waters, exposed, fully mixed, substratum: sand/pebbles/gravel 	5	2	Pelagic habitat													
+183	4	POL-015  - PL CW II WB 6E central Polish coast, coastal waters, exposed, fully mixed, substratum: sand/pebbles/gravel 	6	2	Benthic habitat	0.7143												0.7143
+183	4	POL-015  - PL CW II WB 6E central Polish coast, coastal waters, exposed, fully mixed, substratum: sand/pebbles/gravel 	17	3	Coastal pelagic habitats													
+183	4	POL-015  - PL CW II WB 6E central Polish coast, coastal waters, exposed, fully mixed, substratum: sand/pebbles/gravel 	20	3	Infralittoral coarse sediment	0.4286												0.4286
+183	4	POL-015  - PL CW II WB 6E central Polish coast, coastal waters, exposed, fully mixed, substratum: sand/pebbles/gravel 	28	3	Circalittoral mud	1												1
+186	4	POL-018  - PL CW III WB 9 central Polish coast, coastal waters, exposed, fully mixed, substratum: sand/pebbles/gravel 	1	1	Biodiversity	0.3471												0.6942
+186	4	POL-018  - PL CW III WB 9 central Polish coast, coastal waters, exposed, fully mixed, substratum: sand/pebbles/gravel 	5	2	Pelagic habitat													
+186	4	POL-018  - PL CW III WB 9 central Polish coast, coastal waters, exposed, fully mixed, substratum: sand/pebbles/gravel 	6	2	Benthic habitat	0.6942												0.6942
+186	4	POL-018  - PL CW III WB 9 central Polish coast, coastal waters, exposed, fully mixed, substratum: sand/pebbles/gravel 	17	3	Coastal pelagic habitats													
+186	4	POL-018  - PL CW III WB 9 central Polish coast, coastal waters, exposed, fully mixed, substratum: sand/pebbles/gravel 	20	3	Infralittoral coarse sediment	0.3883												0.3883
+186	4	POL-018  - PL CW III WB 9 central Polish coast, coastal waters, exposed, fully mixed, substratum: sand/pebbles/gravel 	28	3	Circalittoral mud	1												1
+187	4	POL-019  - PL CW III WB 7 central Polish coast, coastal waters, exposed, fully mixed, substratum: sand/pebbles/gravel 	1	1	Biodiversity	0.3389												0.6779
+187	4	POL-019  - PL CW III WB 7 central Polish coast, coastal waters, exposed, fully mixed, substratum: sand/pebbles/gravel 	5	2	Pelagic habitat													
+187	4	POL-019  - PL CW III WB 7 central Polish coast, coastal waters, exposed, fully mixed, substratum: sand/pebbles/gravel 	6	2	Benthic habitat	0.6779												0.6779
+187	4	POL-019  - PL CW III WB 7 central Polish coast, coastal waters, exposed, fully mixed, substratum: sand/pebbles/gravel 	17	3	Coastal pelagic habitats													
+187	4	POL-019  - PL CW III WB 7 central Polish coast, coastal waters, exposed, fully mixed, substratum: sand/pebbles/gravel 	20	3	Infralittoral coarse sediment	0.3557												0.3557
+187	4	POL-019  - PL CW III WB 7 central Polish coast, coastal waters, exposed, fully mixed, substratum: sand/pebbles/gravel 	28	3	Circalittoral mud	1												1
+191	4	SWE-001  - 1s West Coast inner coastal water 	1	1	Biodiversity	0.6112						0.6699						0.5524
+191	4	SWE-001  - 1s West Coast inner coastal water 	5	2	Pelagic habitat	0.6699						0.6699						
+191	4	SWE-001  - 1s West Coast inner coastal water 	6	2	Benthic habitat	0.5524												0.5524
+191	4	SWE-001  - 1s West Coast inner coastal water 	17	3	Coastal pelagic habitats	0.6699						0.6699						
+191	4	SWE-001  - 1s West Coast inner coastal water 	20	3	Infralittoral coarse sediment	0.6239												0.6239
+191	4	SWE-001  - 1s West Coast inner coastal water 	28	3	Circalittoral mud	0.4809												0.4809
+192	4	SWE-003  - 4 West Coast outer coastal water, Kattegat 	1	1	Biodiversity	0.7665						0.9273						0.6057
+192	4	SWE-003  - 4 West Coast outer coastal water, Kattegat 	5	2	Pelagic habitat	0.9273						0.9273						
+192	4	SWE-003  - 4 West Coast outer coastal water, Kattegat 	6	2	Benthic habitat	0.6057												0.6057
+192	4	SWE-003  - 4 West Coast outer coastal water, Kattegat 	17	3	Coastal pelagic habitats	0.9273						0.9273						
+192	4	SWE-003  - 4 West Coast outer coastal water, Kattegat 	20	3	Infralittoral coarse sediment	0.7113												0.7113
+192	4	SWE-003  - 4 West Coast outer coastal water, Kattegat 	28	3	Circalittoral mud	0.5												0.5
+193	4	SWE-004  - 5 South Halland and north Öresund coastal water 	1	1	Biodiversity	0.7329						0.8485						0.6172
+193	4	SWE-004  - 5 South Halland and north Öresund coastal water 	5	2	Pelagic habitat	0.8485						0.8485						
+193	4	SWE-004  - 5 South Halland and north Öresund coastal water 	6	2	Benthic habitat	0.6172												0.6172
+193	4	SWE-004  - 5 South Halland and north Öresund coastal water 	17	3	Coastal pelagic habitats	0.8485						0.8485						
+193	4	SWE-004  - 5 South Halland and north Öresund coastal water 	20	3	Infralittoral coarse sediment	0.6936												0.6936
+193	4	SWE-004  - 5 South Halland and north Öresund coastal water 	28	3	Circalittoral mud	0.5409												0.5409
+195	4	SWE-006  - 7 Skåne coastal water 	1	1	Biodiversity	0.6203						0.6272						0.6133
+195	4	SWE-006  - 7 Skåne coastal water 	5	2	Pelagic habitat	0.6272						0.6272						
+195	4	SWE-006  - 7 Skåne coastal water 	6	2	Benthic habitat	0.6133												0.6133
+195	4	SWE-006  - 7 Skåne coastal water 	17	3	Coastal pelagic habitats	0.6272						0.6272						
+195	4	SWE-006  - 7 Skåne coastal water 	20	3	Infralittoral coarse sediment	0.6013												0.6013
+195	4	SWE-006  - 7 Skåne coastal water 	28	3	Circalittoral mud	0.6254												0.6254
+196	4	SWE-007  - 8 Blekinge archipelago and Kalmarsund, inner coastal water 	1	1	Biodiversity	0.6429						0.6226						0.6632
+196	4	SWE-007  - 8 Blekinge archipelago and Kalmarsund, inner coastal water 	5	2	Pelagic habitat	0.6226						0.6226						
+196	4	SWE-007  - 8 Blekinge archipelago and Kalmarsund, inner coastal water 	6	2	Benthic habitat	0.6632												0.6632
+196	4	SWE-007  - 8 Blekinge archipelago and Kalmarsund, inner coastal water 	17	3	Coastal pelagic habitats	0.6226						0.6226						
+196	4	SWE-007  - 8 Blekinge archipelago and Kalmarsund, inner coastal water 	20	3	Infralittoral coarse sediment	0.6597												0.6597
+196	4	SWE-007  - 8 Blekinge archipelago and Kalmarsund, inner coastal water 	28	3	Circalittoral mud	0.6667												0.6667
+197	4	SWE-008  - 9 Blekinge archipelago and Kalmarsund, outer coastal water 	1	1	Biodiversity	0.6652						0.6453						0.6852
+197	4	SWE-008  - 9 Blekinge archipelago and Kalmarsund, outer coastal water 	5	2	Pelagic habitat	0.6453						0.6453						
+197	4	SWE-008  - 9 Blekinge archipelago and Kalmarsund, outer coastal water 	6	2	Benthic habitat	0.6852												0.6852
+197	4	SWE-008  - 9 Blekinge archipelago and Kalmarsund, outer coastal water 	17	3	Coastal pelagic habitats	0.6453						0.6453						
+197	4	SWE-008  - 9 Blekinge archipelago and Kalmarsund, outer coastal water 	20	3	Infralittoral coarse sediment	0.638												0.638
+197	4	SWE-008  - 9 Blekinge archipelago and Kalmarsund, outer coastal water 	28	3	Circalittoral mud	0.7324												0.7324
+214	4	SWE-025  - 25 Göta and Nordre älv estuary	1	1	Biodiversity	0.4116						0.3224						0.5007
+214	4	SWE-025  - 25 Göta and Nordre älv estuary	5	2	Pelagic habitat	0.3224						0.3224						
+214	4	SWE-025  - 25 Göta and Nordre älv estuary	6	2	Benthic habitat	0.5007												0.5007
+214	4	SWE-025  - 25 Göta and Nordre älv estuary	17	3	Coastal pelagic habitats	0.3224						0.3224						
+214	4	SWE-025  - 25 Göta and Nordre älv estuary	20	3	Infralittoral coarse sediment	0.5015												0.5015
+214	4	SWE-025  - 25 Göta and Nordre älv estuary	28	3	Circalittoral mud	0.5												0.5
