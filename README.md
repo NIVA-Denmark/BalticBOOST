@@ -1,7 +1,7 @@
 # BalticBOOST
 This is the BalticBOOST Biodiversity Assessment Tool (BEAT 3.0)<br>
 The tool was developed under the HELCOM BalticBOOST project and was used to perform the integrated biodiversity assessment for HOLAS II - <b>The HELCOM State of the Baltic Sea - Holistic Assessment</b><br><br>
-<a href="https://doi.org/10.5281/zenodo.1043308"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.1043308.svg" alt="DOI"></a>
+<a href="https://doi.org/10.5281/zenodo.1288315"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.1288315.svg" alt="DOI"></a>
 
 BEAT 3.0 was coded as an R-script in order to provide a freely accessible and open tool. The script can be downloaded from: https://github.com/NIVA-Denmark/BalticBOOST.
   
