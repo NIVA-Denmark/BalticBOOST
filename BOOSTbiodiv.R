@@ -18,7 +18,7 @@ source('include.r')
   file_ind <- "./input/indicators.txt"             # Indicator data - boundary and obs. values associated with an SAU / EC
   file_ooao <- "./input/ooao.txt"                  # (optional) Indicators using one-out all-out (OOAO)
   
-  file_conf <- "./confidence_penalties.R"          # Code for calculating Confidence penalties
+  #file_conf <- "./confidence_penalties.R"          # Code for calculating Confidence penalties
                                                    # if the variable is not defined, this will not be done
   
   # ===================================================================================================
